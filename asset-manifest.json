@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//gurpinder-hy.github.io//react-training-ecommerce/static/css/main.75e3ffe5.css",
+    "main.js": "//gurpinder-hy.github.io//react-training-ecommerce/static/js/main.f15cdfbe.js",
+    "static/media/banner-2.jpg": "//gurpinder-hy.github.io//react-training-ecommerce/static/media/banner-2.cae66dcd31d84df37e31.jpg",
+    "static/media/banner-3.jpg": "//gurpinder-hy.github.io//react-training-ecommerce/static/media/banner-3.6972061109015d269be3.jpg",
+    "static/media/banner-1.jpg": "//gurpinder-hy.github.io//react-training-ecommerce/static/media/banner-1.7626d5539f0649284789.jpg",
+    "index.html": "//gurpinder-hy.github.io//react-training-ecommerce/index.html",
+    "main.75e3ffe5.css.map": "//gurpinder-hy.github.io//react-training-ecommerce/static/css/main.75e3ffe5.css.map",
+    "main.f15cdfbe.js.map": "//gurpinder-hy.github.io//react-training-ecommerce/static/js/main.f15cdfbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e3ffe5.css",
+    "static/js/main.f15cdfbe.js"
+  ]
+}
